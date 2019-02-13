@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\bin\Debug\gerador_senha.exe.config
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\bin\Debug\gerador_senha.exe
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\bin\Debug\gerador_senha.pdb
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.exe
+c:\users\user\documents\visual studio 2012\Projects\gerador_senha\gerador_senha\obj\Debug\gerador_senha.pdb
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\bin\Debug\gerador_senha.exe.config
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.exe
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.pdb
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\bin\Debug\gerador_senha.exe
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\bin\Debug\gerador_senha.pdb
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.Form1.resources
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.Properties.Resources.resources
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.csproj.GenerateResource.Cache
+C:\Users\Wilson\Desktop\gerador_senha\gerador_senha\obj\Debug\gerador_senha.Dados.resources

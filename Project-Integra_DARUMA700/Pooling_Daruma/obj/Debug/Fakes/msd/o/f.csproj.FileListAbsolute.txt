@@ -1,0 +1,7 @@
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb

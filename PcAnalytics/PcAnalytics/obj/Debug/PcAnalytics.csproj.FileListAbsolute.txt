@@ -1,0 +1,80 @@
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\wilson_falcao\documents\visual studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\Wilson\Documents\Visual Studio 2012\Projects\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\pcr-27929\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\Wilson\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\User\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.pdb
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Form1.resources
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Properties.Resources.resources
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Cadastro.resources
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.Tela_Erro.resources
+C:\Users\pcr-27929\Desktop\ooiit\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.csproj.GenerateResource.Cache
+C:\Users\Wilson\OneDrive\Desktop\PcAnalytics\PcAnalytics\bin\Debug\PcAnalytics.exe.config
+C:\Users\Wilson\OneDrive\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.exe
+C:\Users\Wilson\OneDrive\Desktop\PcAnalytics\PcAnalytics\obj\Debug\PcAnalytics.pdb

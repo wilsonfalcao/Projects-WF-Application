@@ -1,0 +1,121 @@
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+c:\users\wilson\documents\visual studio 2012\Projects\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+G:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+E:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+E:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+E:\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+C:\Users\User\Documents\compartilhados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+\\172.22.1.2\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojFakesResolveAssemblyReference.cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\MySql.Data.Fakes.fakesconfig
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\fakes.args
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ah
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ch
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.cs
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.csproj
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakes
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakesconfig
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.snk
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\User\Documents\compartilhados\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojFakesResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\fakes.args
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ah
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ch
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.cs
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.csproj
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakes
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakesconfig
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.snk
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+C:\Users\pcr-27929\Desktop\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe.config
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.exe
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.pdb
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.exe
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Pooling_Daruma.pdb
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojFakesResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\fakes.args
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ah
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.ch
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.cs
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.csproj
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakes
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.fakesconfig
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\f.snk
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csprojResolveAssemblyReference.cache
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Form1.resources
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.Properties.Resources.resources
+C:\Users\pcr-27929\Desktop\Projeto Chamador 2017\PGM Atualizados\Pooling Daruma\Pooling_Daruma\Pooling_Daruma\obj\Debug\Pooling_Daruma.csproj.GenerateResource.Cache
